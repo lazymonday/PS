@@ -1,3 +1,0 @@
-/Users/lucille/Works/algo/divide_and_conquer_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/lucille/Works/algo/divide_and_conquer_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lucille/Works/algo/divide_and_conquer_cpp/cmake-build-debug/CMakeFiles/divide_and_conquer_cpp.dir
