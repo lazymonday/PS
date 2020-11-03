@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lucille/Works/algo/4217_holy_letter/main.cpp
+iostream
+-
+stack
+-
+cstring
+-
+vector
+-
+set
+-
+algorithm
+-
+

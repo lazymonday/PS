@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="1102_generator" targetName="1102_generator" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75fc7efe-44b5-40e7-9c88-ce4d96446612" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1XYxYwLZ0GGzN1UxsCO0gyDuHM0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="1102_generator" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1102_generator" TARGET_NAME="1102_generator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="1102_generator" RUN_TARGET_NAME="1102_generator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75fc7efe-44b5-40e7-9c88-ce4d96446612" name="Default Changelist" comment="" />
+      <created>1581236880526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581236880526</updated>
+      <workItem from="1581236882183" duration="7194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="744" y="221" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581253637691">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state x="744" y="221" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1100@0.23.1920.1100" timestamp="1581253637691" />
+    <state width="1238" height="330" key="GridCell.Tab.0.bottom" timestamp="1581258898119">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state width="1238" height="330" key="GridCell.Tab.0.bottom/0.23.1920.1100@0.23.1920.1100" timestamp="1581258898119" />
+    <state width="1238" height="330" key="GridCell.Tab.0.center" timestamp="1581258898118">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state width="1238" height="330" key="GridCell.Tab.0.center/0.23.1920.1100@0.23.1920.1100" timestamp="1581258898118" />
+    <state width="1238" height="330" key="GridCell.Tab.0.left" timestamp="1581258898118">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state width="1238" height="330" key="GridCell.Tab.0.left/0.23.1920.1100@0.23.1920.1100" timestamp="1581258898118" />
+    <state width="1238" height="330" key="GridCell.Tab.0.right" timestamp="1581258898119">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state width="1238" height="330" key="GridCell.Tab.0.right/0.23.1920.1100@0.23.1920.1100" timestamp="1581258898119" />
+    <state width="1238" height="330" key="GridCell.Tab.1.bottom" timestamp="1581258898120">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state width="1238" height="330" key="GridCell.Tab.1.bottom/0.23.1920.1100@0.23.1920.1100" timestamp="1581258898120" />
+    <state width="1238" height="330" key="GridCell.Tab.1.center" timestamp="1581258898119">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state width="1238" height="330" key="GridCell.Tab.1.center/0.23.1920.1100@0.23.1920.1100" timestamp="1581258898119" />
+    <state width="1238" height="330" key="GridCell.Tab.1.left" timestamp="1581258898119">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state width="1238" height="330" key="GridCell.Tab.1.left/0.23.1920.1100@0.23.1920.1100" timestamp="1581258898119" />
+    <state width="1238" height="330" key="GridCell.Tab.1.right" timestamp="1581258898120">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state width="1238" height="330" key="GridCell.Tab.1.right/0.23.1920.1100@0.23.1920.1100" timestamp="1581258898120" />
+    <state x="781" y="198" key="SettingsEditor" timestamp="1581253668473">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state x="781" y="198" key="SettingsEditor/0.23.1920.1100@0.23.1920.1100" timestamp="1581253668473" />
+    <state x="1002" y="196" key="refactoring.ChangeSignatureDialog" timestamp="1581238578001">
+      <screen x="0" y="23" width="1920" height="1100" />
+    </state>
+    <state x="1002" y="196" key="refactoring.ChangeSignatureDialog/0.23.1920.1100@0.23.1920.1100" timestamp="1581238578001" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="__builtin_popcountll(current)" language="ObjectiveC" />
+        <watch expression="dp[current]" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

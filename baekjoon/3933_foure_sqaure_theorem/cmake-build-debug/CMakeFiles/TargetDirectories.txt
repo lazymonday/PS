@@ -1,0 +1,3 @@
+/Users/lucille/Works/algo/3933_foure_sqaure_theorem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lucille/Works/algo/3933_foure_sqaure_theorem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lucille/Works/algo/3933_foure_sqaure_theorem/cmake-build-debug/CMakeFiles/3933_foure_sqaure_theorem.dir

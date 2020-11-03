@@ -1,0 +1,3 @@
+/Users/lucille/Works/algo/1562_stair_number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lucille/Works/algo/1562_stair_number/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lucille/Works/algo/1562_stair_number/cmake-build-debug/CMakeFiles/1562_stair_number.dir

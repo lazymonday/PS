@@ -1,0 +1,26 @@
+
+
+vector<int> adj[MAX+1];
+int cost[MAX+1];
+
+
+priority_queue<int, vector<int>, greater<>> pq;
+
+pq.push({weight, s});
+
+while(!pq.empty()) {
+	
+	auto node = pq.top();
+	node.v;
+	node.weight
+
+	if(cost[u] )
+
+	for(int i = 0; i < adj[node.v].size(); ++i) {
+		auto v = adj[node.v][i];
+		if(cost[v] > cost[u] + weight[v]) {
+			pq.push({v, weight[v]});
+			cost[v] = cost[u] + weight[v];
+		}
+	}
+}
