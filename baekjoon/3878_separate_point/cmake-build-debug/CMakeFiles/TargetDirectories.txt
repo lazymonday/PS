@@ -1,3 +1,0 @@
-/Users/lucille/Works/algo/3878_separate_point/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/lucille/Works/algo/3878_separate_point/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lucille/Works/algo/3878_separate_point/cmake-build-debug/CMakeFiles/3878_separate_point.dir

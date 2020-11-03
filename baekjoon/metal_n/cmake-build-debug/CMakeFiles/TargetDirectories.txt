@@ -1,3 +1,0 @@
-/Users/lucille/Works/algo/metal_n/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/lucille/Works/algo/metal_n/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lucille/Works/algo/metal_n/cmake-build-debug/CMakeFiles/metal_n.dir

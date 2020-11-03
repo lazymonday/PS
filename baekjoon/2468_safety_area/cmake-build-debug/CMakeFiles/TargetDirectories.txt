@@ -1,3 +1,0 @@
-/Users/lucille/Works/algo/2468_safety_area/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/lucille/Works/algo/2468_safety_area/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lucille/Works/algo/2468_safety_area/cmake-build-debug/CMakeFiles/2468_safety_area.dir

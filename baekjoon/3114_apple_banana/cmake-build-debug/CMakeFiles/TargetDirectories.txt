@@ -1,3 +1,0 @@
-/Users/lucille/Works/algo/3114_apple_banana/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/lucille/Works/algo/3114_apple_banana/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lucille/Works/algo/3114_apple_banana/cmake-build-debug/CMakeFiles/3114_apple_banana.dir

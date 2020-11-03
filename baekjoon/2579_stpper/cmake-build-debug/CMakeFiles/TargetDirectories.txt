@@ -1,3 +1,0 @@
-/Users/lucille/Works/algo/2579_stpper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/lucille/Works/algo/2579_stpper/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lucille/Works/algo/2579_stpper/cmake-build-debug/CMakeFiles/2579_stpper.dir

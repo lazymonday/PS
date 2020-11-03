@@ -1,3 +1,0 @@
-/Users/lucille/Works/algo/2912_snow_white2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/lucille/Works/algo/2912_snow_white2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lucille/Works/algo/2912_snow_white2/cmake-build-debug/CMakeFiles/2912_snow_white2.dir

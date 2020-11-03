@@ -1,3 +1,0 @@
-/Users/lucille/Works/algo/4181_convex_hull/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/lucille/Works/algo/4181_convex_hull/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lucille/Works/algo/4181_convex_hull/cmake-build-debug/CMakeFiles/4181_convex_hull.dir

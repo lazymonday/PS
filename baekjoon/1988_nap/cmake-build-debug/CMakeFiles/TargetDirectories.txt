@@ -1,3 +1,0 @@
-/Users/lucille/Works/algo/1988_nap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/lucille/Works/algo/1988_nap/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lucille/Works/algo/1988_nap/cmake-build-debug/CMakeFiles/1988_nap.dir

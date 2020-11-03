@@ -1,3 +1,0 @@
-/Users/lucille/Works/algo/1966_printer_queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/lucille/Works/algo/1966_printer_queue/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lucille/Works/algo/1966_printer_queue/cmake-build-debug/CMakeFiles/1966_printer_queue.dir

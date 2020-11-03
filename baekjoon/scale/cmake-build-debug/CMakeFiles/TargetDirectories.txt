@@ -1,3 +1,0 @@
-/Users/lucille/Works/algo/scale/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/lucille/Works/algo/scale/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lucille/Works/algo/scale/cmake-build-debug/CMakeFiles/scale.dir
