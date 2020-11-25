@@ -50,22 +50,15 @@ public:
     void resize(int sz) {
         int* newCont = new int[sz];
         memcpy(newCont, cont, sizeof(int) * capacity);
-        delete cont;
+        delete[] cont;
         cont = newCont;
 
         int* newMinCont = new int[sz];
         memcpy(newMinCont, minCont, sizeof(int) * capacity);
-        delete minCont;
+        delete[] minCont;
         minCont = newMinCont;
 
         capacity = sz;
-    }
-
-    void debug() {
-        for(int i = 0; i < pos; ++i) {
-            cout << minCont[i] << ", ";
-        }
-        cout << "\n";
     }
 };
 
